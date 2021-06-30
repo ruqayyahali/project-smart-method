@@ -1,4 +1,4 @@
-# project-smart-method
+# armcontrol-smart-method
 I made this project to control a robot arm required for a project of the Smart method Company
 Where I was able to learn how to start building a robot and how it is operated and controlled
 I used html, javascript and ccs
